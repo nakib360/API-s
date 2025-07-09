@@ -1,4 +1,4 @@
-
+[
   { "id": 1, "text": "Love yourself, and the world will love you too." },
   { "id": 2, "text": "Where there's a will, there's a way." },
   { "id": 3, "text": "A smile is the beauty of the soul." },
@@ -14,4 +14,5 @@
   { "id": 13, "text": "Just like the sun after rain, joy comes after sorrow." },
   { "id": 14, "text": "Change yourself, and you can change the world." },
   { "id": 15, "text": "It’s not the strongest who win, but the most patient." }
+]
 
